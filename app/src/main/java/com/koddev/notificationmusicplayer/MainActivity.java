@@ -79,6 +79,7 @@ public class MainActivity extends AppCompatActivity implements Playable {
         tracks.add(new Track("On and On", "The Score", R.drawable.face5608));
         tracks.add(new Track("Never Going Back", "The Score", R.drawable.face5606));
         tracks.add(new Track("Legend", "The Score", R.drawable.face5611));
+        tracks.add(new Track("Head Up", "The Score", R.drawable.face5611));
     }
 
     BroadcastReceiver broadcastReceiver = new BroadcastReceiver() {
